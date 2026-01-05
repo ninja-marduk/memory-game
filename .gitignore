@@ -1,0 +1,12 @@
+# Ejecutables
+*.exe
+
+# DLLs
+*.dll
+
+# Archivos objeto
+*.o
+*.obj
+
+# Scripts de build locales
+build.ps1

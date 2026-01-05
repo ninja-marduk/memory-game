@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(copy \"C:\\\\msys64\\\\mingw64\\\\bin\\\\SDL2.dll\" \"D:\\\\github.com\\\\ninja-marduk\\\\memory-game\"\")"
+    ]
+  }
+}
